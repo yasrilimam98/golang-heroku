@@ -1,0 +1,9 @@
+{
+	"DB_USERNAME" : "rootremote",
+	"DB_PASSWORD" : "ITgrow2a53",
+	"DB_PORT" : "3308",
+	"DB_HOST" : "110.232.68.166",
+	"DB_NAME" : "db_sms"
+
+	
+}
